@@ -1,4 +1,6 @@
-package org.example.abstractfactory;
+package org.example.abstractfactory.impl;
+
+import org.example.abstractfactory.AbstractProduct;
 
 public class ProductA implements AbstractProduct {
     @Override

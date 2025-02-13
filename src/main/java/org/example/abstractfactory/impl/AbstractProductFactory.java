@@ -1,4 +1,7 @@
-package org.example.abstractfactory;
+package org.example.abstractfactory.impl;
+
+import org.example.abstractfactory.AbstractFactory;
+import org.example.abstractfactory.AbstractProduct;
 
 public class AbstractProductFactory {
 
